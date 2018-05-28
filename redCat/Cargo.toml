@@ -1,0 +1,6 @@
+[package]
+name = "redCat"
+version = "0.1.0"
+authors = ["bte22hC <awesome.gota@yandex.com>"]
+
+[dependencies]
